@@ -27,5 +27,5 @@
 
 ## 📫 Contact Me
 - Email: dixitprathamesh4579@gmail.com
-- LinkedIn: your-https://www.linkedin.com/in/prathamesh-dixit-53b463207
+- LinkedIn: https://www.linkedin.com/in/prathamesh-dixit-53b463207
 - GitHub: https://github.com/dixitprathamesh4579
